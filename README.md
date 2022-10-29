@@ -1,17 +1,21 @@
-### Hi there 👋
+<h3 align="center">
+  Hi there, I am Daniel
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=18F7DB&width=435&lines=Full+Stack+Web+Developer;+I+Love+learning+new+things!;I+Enjoy+playing+video+games;I+love+challenges)](https://git.io/typing-svg)
-<!--
-**danlom/danlom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=12F7CA&center=true&vCenter=true&width=605&height=100&lines=Learn+more+about+me....;Full-Stack+Developer;Ruby+on+Rails+-+PostgreSQL-+ReactJS+-+GraphQL+-+AWS" alt="Typing SVG" /></a>
+</p>
 
-Here are some ideas to get you started:
+I am a full-stack developer currently located in New Market, Maryland. Looking for a hybrid or onsite positions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I a a technology enthusiast that loves working with teams👨‍💻👩‍💻👨‍💻👩‍💻, taking new challenges🤔 and learning new things 📖.
+ 
+
+- 🔭 I’m currently working on a website for my local church.
+- 🌱 I’m currently learning Docker/
+- 💬 Ask me about anything about programming, RoR, ReactJS, or even videogames.
+- ⚡ Fun fact: I love playing soccer, but I am bad at it.
+- 📫 Reach me:
+<a href="https://www.linkedin.com/in/dalop/" title="LinkeIn"><img src="https://www.freeiconspng.com/uploads/linkedin-linkedin-icon-flat-icon-linkedin-png-social-icon-png-11.png" width="30"         alt="Linkedin" /></a>
+<a href="mailto:danielglm04@@gmail.com" title="Email"><img src="https://www.freeiconspng.com/uploads/gmail-icon-0.png" width="30" alt="Gmail Svg" /></a>
