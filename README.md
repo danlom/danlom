@@ -18,4 +18,4 @@ I a a technology enthusiast that loves working with teams👨‍💻👩‍💻�
 - ⚡ Fun fact: I love playing soccer, but I am bad at it.
 - 📫 Reach me:
 <a href="https://www.linkedin.com/in/dalop/" title="LinkeIn"><img src="https://www.freeiconspng.com/uploads/linkedin-linkedin-icon-flat-icon-linkedin-png-social-icon-png-11.png" width="30"         alt="Linkedin" /></a>
-<a href="mailto:danielglm04@@gmail.com" title="Email"><img src="https://www.freeiconspng.com/uploads/gmail-icon-0.png" width="30" alt="Gmail Svg" /></a>
+<a href="mailto:danielglm04@gmail.com" title="Email"><img src="https://www.freeiconspng.com/uploads/gmail-icon-0.png" width="30" alt="Gmail Svg" /></a>
